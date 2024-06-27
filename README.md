@@ -26,3 +26,4 @@ YTD Sales by Week (Column Chart): Display sales data on a weekly basis to pinpoi
 understand customer preferences.
 
  ** Snapshot of Dashboard 
+  ![Dashboard](https://github.com/akshayzalte51/Power-bi-project-/assets/42185846/fcc8db70-2a77-4c09-89eb-95e2ec436adc)
