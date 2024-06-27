@@ -24,3 +24,5 @@ YTD Sales by Week (Column Chart): Display sales data on a weekly basis to pinpoi
 ➤ Top 5 Products by YTD Reviews (Bar Chart): Identify the top-rated products by year-to-date reviews to
 
 understand customer preferences.
+
+ ** Snapshot of Dashboard 
